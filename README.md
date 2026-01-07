@@ -38,7 +38,6 @@ Este repositorio contiene **apuntes, ejemplos y ejercicios** de la asignatura **
 - Resúmenes teóricos por tema
 - Ejercicios resueltos paso a paso
 - Problemas propuestos con soluciones
-- Recursos digitales para visualización 3D
 
 ### 🎯 **Objetivo**
 Ofrecer un apoyo estructurado para el estudio de **cálculo vectorial**, complementando la formación en ingeniería.
